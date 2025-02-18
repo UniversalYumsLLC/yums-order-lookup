@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "yums/yums-order-lookup",
+	"title": "Yums Order Lookup",
+	"category": "text",
+	"icon": "smiley",
+	"description": "A block to lookup orders in WooCommerce.",
+	"keywords": ["form", "submit", "input"],
+	"version": "1.0.0",
+	"textdomain": "yums-order-lookup",
+	"style": "file:./build/frontend.css",
+	"editorStyle": "file:./build/editor.css",
+	"editorScript": "file:./build/editor.js"
+}
